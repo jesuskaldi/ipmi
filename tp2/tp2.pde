@@ -1,4 +1,4 @@
-//tp3 jesus kaldi
+//tp3 jesus kaldi comision 2 120327/9
 PFont fuente;
 
 int miVariable2;
@@ -77,5 +77,5 @@ if (miVariable > 2400){
 void mousePressed(){
       if (mouseX > 260 && mouseX < 380 && mouseY > 250 && mouseY < 290 ) 
       frameCount = 0;
-      textSize(30);
+      textSize(27);
 }
